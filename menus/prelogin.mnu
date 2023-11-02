@@ -10,11 +10,11 @@ Command:
 0
 0
 
+0 0 0 0 0 0
+
+Between login and main menu
 
 
-Can replace MC (check email) with a personalscan-like menu
-if you want a global new personal message scan instead of
-just e-mail
 FIRSTCMD
 
 10000000000000000000
@@ -34,34 +34,16 @@ FIRSTCMD
 0
 0
 0
-6
+3
 NS
 !OI
 0;|&1 has logged into node |&2.
 0
 
 
-GN
-
-
-0
-
-
-GX
-
-bulletin bulletin bullet check
-0
-
-
 MC
 
 
-0
-
-
-MF
-
-/scan
 0
 
 
